@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **pavel-gutsal@gmail.com**
 
-[- 📄 Here is my CV](https://docs.google.com/document/d/100Yp4b2iPSHUaDhVD2v5pfz2ctMvuEJu7xwuCbooxUE/edit)
+- [- 📄 Here is my CV](https://docs.google.com/document/d/100Yp4b2iPSHUaDhVD2v5pfz2ctMvuEJu7xwuCbooxUE/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
