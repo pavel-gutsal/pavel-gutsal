@@ -1,7 +1,7 @@
 [![MasterHead](./images/background.jpg)](./images/background.jpg)
 
-<h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">I`m Junior Front End developer</h3>
+<h1 align="center">Hi 👋, I'm Paul, and I`m Junior Front End developer</h1>
+<!-- <h3 align="center">I`m Junior Front End developer</h3> -->
 
 
 <h3 align="left">And here is what I have expirience with:</h3>
